@@ -111,7 +111,7 @@ Scans only the specified ports:
 ---
 
 Now we know that there is a "wordpress" running on port `443`.
-We can use wpscan to check vor known vilnerebilitys and get mor informations.
+We can use wpscan to check for known vulnerabilities and get mor informations.
 
 ```bash
 ┌──(kali㉿kalivm)-[~]
