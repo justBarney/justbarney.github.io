@@ -8,6 +8,9 @@ image:
   path: /assets/img/posts/ctf/thm/TryHack3M-Bricks-Heist-EN/TryHack3M-Bricks-Heist-EN.jpg
 ---
 
+# TryHack3M: Bricks Heist
+https://tryhackme.com/room/tryhack3mbricksheist
+
 At first we check for open Ports
 ```bash
 ┌──(kali㉿kalivm)-[~]
