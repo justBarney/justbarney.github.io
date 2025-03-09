@@ -29,10 +29,10 @@ order: 5
 
 
 ### Capture-the-Flags
-| Title       | Link                                        | Description                                                              |
-| ----------- | ------------------------------------------- | ------------------------------------------------------------------------ |
-| DNS-CTF     | [start.dns-ctf.com](start.dns-ctf.com)      | very nice and simple beginners CTF (there is more then websites to hack) |
-| OverTheWire | [OverTheWire.org](https://overthewire.org/) | nice CTF game for beginners. Start with "Bandit"                         |
+| Title       | Link                                           | Description                                                              |
+| ----------- | ---------------------------------------------- | ------------------------------------------------------------------------ |
+| DNS-CTF     | [start.dns-ctf.com](https://start.dns-ctf.com) | very nice and simple beginners CTF (there is more then websites to hack) |
+| OverTheWire | [OverTheWire.org](https://overthewire.org/)    | nice CTF game for beginners. Start with "Bandit"                         |
 
 
 ### collection to read and look up
