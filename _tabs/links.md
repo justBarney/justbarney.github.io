@@ -1,9 +1,8 @@
 ---
 # the default layout is 'page'
 title: "Useful links"
-permalink: /links
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 > work in progress...
