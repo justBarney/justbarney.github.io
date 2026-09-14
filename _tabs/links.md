@@ -15,16 +15,16 @@ order: 5
 | Title      | Link                                          | Description                                                                                                    |
 | ---------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | TryHackMe  | [TryHackMe.com](https://tryhackme.com/)       | Very great platform to learn hacking for beginners                                                             |
-| HackTheBox | [HackTheBox.com](https://www.hackthebox.com/) | Very great platoform for more experienced hackers. Continue here after you have solved the basics of TryHackMe |
+| HackTheBox | [HackTheBox.com](https://www.hackthebox.com/) | Very great platform for more experienced hackers. Continue here after you have solved the basics of TryHackMe |
 
 ### useful tools
 
-| Title     | Link n                                                                     | Description                                   |
+| Title     | Link                                                                       | Description                                   |
 | --------- | -------------------------------------------------------------------------- | --------------------------------------------- |
 | CyberChef | [GitHub/CyberChef](https://gchq.github.io/CyberChef/)                      | Web-based tool-collection for Cyphers         |
-| regex101  | [regeex101.com](https://regex101.com/)                                     | the best too to test your regular-expressions |
+| regex101  | [regex101.com](https://regex101.com/)                                      | the best tool to test your regular-expressions |
 | RevShells | [revshells.com](https://www.revshells.com/)                                | a reverse shell generator                     |
-| linPEAS   | [GutHub/LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) | Linux Privilege Escalation Script             |
+| linPEAS   | [GitHub/LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) | Linux Privilege Escalation Script             |
 
 
 
@@ -32,7 +32,7 @@ order: 5
 
 | Title       | Link                                           | Description                                                              |
 | ----------- | ---------------------------------------------- | ------------------------------------------------------------------------ |
-| DNS-CTF     | [start.dns-ctf.com](https://start.dns-ctf.com) | very nice and simple beginners CTF (there is more then websites to hack) |
+| DNS-CTF     | [start.dns-ctf.com](https://start.dns-ctf.com) | very nice and simple beginners CTF (there is more than websites to hack) |
 | OverTheWire | [OverTheWire.org](https://overthewire.org/)    | nice CTF game for beginners. Start with "Bandit"                         |
 
 
@@ -40,4 +40,4 @@ order: 5
 
 | Title      | Link                                                  | Description                     |
 | ---------- | ----------------------------------------------------- | ------------------------------- |
-| HacKtricks | [book.hacktricks.wiki](https://book.hacktricks.wiki/) | very nice collection to look up |
+| HackTricks | [book.hacktricks.wiki](https://book.hacktricks.wiki/) | very nice collection to look up |
