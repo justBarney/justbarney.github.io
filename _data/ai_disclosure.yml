@@ -1,0 +1,21 @@
+# KI-Kennzeichnung (Art. 50 EU AI Act)
+#
+# Steuerung pro Beitrag ueber das Front-Matter-Feld `ai:`
+#   ai: full      -> vollstaendig KI-generiert
+#   ai: partial   -> teilweise mit KI erstellt/bearbeitet
+# Ohne `ai:` erscheint keine Box.
+#
+# Texte hier zentral aenderbar (z. B. fuer Englisch), ohne das Plugin anzufassen.
+
+page: /ai-transparency/       # Ziel der "Mehr erfahren"-Verlinkung
+more_text: "Mehr erfahren"
+
+full:
+  icon: /assets/img/ai/eu-ai-fully-generated.svg
+  alt: "EU-Kennzeichnung: KI-generierter Inhalt"
+  label: "Dieser Beitrag enthält vollständig KI-generierte Inhalte."
+
+partial:
+  icon: /assets/img/ai/eu-ai-partially-modified.svg
+  alt: "EU-Kennzeichnung: teilweise mit KI bearbeiteter Inhalt"
+  label: "Dieser Beitrag enthält teilweise mit KI erstellte oder bearbeitete Inhalte."
